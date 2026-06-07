@@ -20,6 +20,7 @@
 - https://medium.com/@leonardomartins_27620/navigating-seamless-data-management-entity-framework-dapper-and-nhibernate-comparison-eff318c44b0e
 - https://www.infoq.com/articles/deep-diving-ef-core-jeremy-likness/
 - https://www.roji.org/efcore-cross-database-suport/
+- https://efnext.github.io/advanced/query-compiler-pipeline.html
 
 ### [CSHARP EXPRESSIONS]
 - https://www.c-sharpcorner.com/article/understanding-expressions-in-c-sharp-dynamic-code-and-query-generation/
